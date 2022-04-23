@@ -1,0 +1,9 @@
+- Lancer sarah.py (interface) et remplir les info des obstacles, de la souris et des fromages
+- La vitesse de la souris en entre 3 et 15
+- tous les fichiers et les images doivent etre dans le meme dossier.
+- eviter les grandes dimensions des objets  <60 par exemple
+- Le code : script1.py
+- Le code de l'interface : sarah.py
+- le fichiers inputs.txt se génére automatiquement a chaque execution ( il recupere les donnees de l'interface entrées par 
+  l'utilisateur et les envoie au code pour initialiser les variables correspondantes)
+
